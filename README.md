@@ -13,9 +13,9 @@ Homework for Week 2
     - An exercise for iota
     - An exercise for scope
     
-# Do not forget to commit the initial and final work.
+Do not forget to commit the initial and final work.
 
-##CHAPTER 2 CONTENTS
+## CHAPTER 2 CONTENTS
 2. Program Structure
 2.1. Names
 2.2. Declarations
@@ -25,7 +25,7 @@ Homework for Week 2
 2.6. Packages and Files
 2.7. Scope
    
-##CHAPTER 3 CONTENTS
+## CHAPTER 3 CONTENTS
 3. Basic Data Types 
 3.1. Integers  
 3.2. Floating-Point Numbers  
